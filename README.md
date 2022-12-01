@@ -4,6 +4,9 @@ This repo corresponds to the paper: How to Cold Call Firms? An Application of Mu
 The code implemented is a python implementation of the R-package provided originally by Lotze and Loecher (2014). The code they provide was established by Scott (2010). It is also used as an example for a Multi-Armed Bandid Application in Kaibel and Biemann (2021).
 
 
+
+References
+
 Kaibel, C., and T. Biemann (2021): “Rethinking the gold standard with multi-armed bandits:
 machine learning allocation algorithms for experiments,” Organizational Research Methods, 24(1),
 78–103. 
