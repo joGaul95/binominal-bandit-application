@@ -1,4 +1,7 @@
-# Python implementation of: 
+# Python implementation of:
+
+# Lotze, T., & Loecher, M. (2014, November 1). bandit: Functions for simple A/B split test and multi-armed bandit analysis. Retrieved from https://cran.r-project.org/web/packages/bandit/index.html.
+# Scott, S. L. (2010). A modern Bayesian look at the multi-armed bandit. Applied Stochastic Models in Business and Industry, 26(6), 639-658. doi:10.1002/asmb.874
 
 import pandas as pd
 from datetime import datetime, timedelta
