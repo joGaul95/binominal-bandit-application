@@ -5,7 +5,7 @@ The code displayed is a python implementation of the R-package provided original
 
 The second file in the repository (distribution.py) contains the request implementations for the Qualtrics API we utilize to access the server and setup our distributions in a automatic fashion, retreive contact information, randomly allocate contacts to samples, retreive distribution histories etc.
 
-References
+## References
 
 Kaibel, C., and T. Biemann (2021): “Rethinking the gold standard with multi-armed bandits:
 machine learning allocation algorithms for experiments,” Organizational Research Methods, 24(1),
