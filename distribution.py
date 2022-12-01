@@ -135,17 +135,6 @@ def get_contacts_from_sample(apiToken, dataCenter, directoryId, sampleId):
 
     return contactstuff
 
-#Test Nextpage
-#import secrets
-#apiToken = secrets.API_TOKEN
-#dataCenter = secrets.DATA_CENTER
-
-#response = get_contacts_from_sample(apiToken, dataCenter, directoryId='POOL_1n2ONNeqWpsMfcZ', sampleId='CG_3PsN6I85i9DG1W2')
-#print(response)
-#length = len(response)
-#print(length)
-
-#logging.info(response[0])
 
 def update_contact(apiToken, dataCenter, directoryId, contactId, banditgroup):
 
