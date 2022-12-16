@@ -186,8 +186,8 @@ def create_sample_definition(apiToken, dataCenter, directoryId, banditgroup):
       "value": banditgroup
     }
   },
-        "maxSampleSize": 1400,
-        "samplePercentage": 0
+        #"maxSampleSize": 1400,
+        "samplePercentage": 100
 }
     headers = {
         "Content-Type": "application/json",
